@@ -1,5 +1,10 @@
 {
+  "title": "Academia Corporativa Tech",
   "description": "This premium EdTech platform offers tailored Microsoft Office training for professionals, enhancing workplace skills through practical, real-world applications.",
+  "language": "es",
+  "icons": {
+    "icon": "/src/assets/tech-logo.png"
+  },
   "robots": {
     "index": false
   },
