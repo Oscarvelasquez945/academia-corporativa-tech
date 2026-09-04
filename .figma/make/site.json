@@ -1,0 +1,10 @@
+{
+  "description": "This premium EdTech platform offers tailored Microsoft Office training for professionals, enhancing workplace skills through practical, real-world applications.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
